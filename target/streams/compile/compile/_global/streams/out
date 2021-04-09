@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/sharadsingh/Dev/scalaSparkEx/project/target/.sbt-compilation-infos/scalasparkex-compile/.sbt-idea-lock ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sharadsingh/Dev/scalaSparkEx/src/main/scala/sparkdataframe/sparkdf.scala:81:10: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ex.branches[0m
+[0m[[0m[33mwarn[0m] [0m[0m         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/sharadsingh/Dev/scalaSparkEx/project/target/.sbt-compilation-infos/scalasparkex-compile/.sbt-idea-lock.[0m
